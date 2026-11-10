@@ -1,0 +1,59 @@
+{
+  "student_file": "C:\\Users\\Acer\\Downloads\\RAE67_bio_ins-main\\lab_02\\student_controller.py",
+  "student_file_sha256": "bbf09dddd38c1e16eb6f16195ca2bcf43c80418d5f9791f7f8f1b1e8935de24b",
+  "checks": [
+    {
+      "name": "load_submission",
+      "status": "PASS",
+      "detail": "StudentController and Parameters found"
+    },
+    {
+      "name": "filter",
+      "status": "FAIL",
+      "detail": "NotImplementedError: "
+    },
+    {
+      "name": "single_threshold",
+      "status": "FAIL",
+      "detail": "NotImplementedError: "
+    },
+    {
+      "name": "hysteresis",
+      "status": "FAIL",
+      "detail": "NotImplementedError: "
+    },
+    {
+      "name": "proportional_and_clamp",
+      "status": "FAIL",
+      "detail": "NotImplementedError: "
+    },
+    {
+      "name": "invalid_sample",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "full_trial_C0",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "full_trial_C1",
+      "status": "FAIL",
+      "detail": "NotImplementedError: student_controller.py has an unfinished TODO in condition C1"
+    },
+    {
+      "name": "full_trial_C2",
+      "status": "FAIL",
+      "detail": "NotImplementedError: student_controller.py has an unfinished TODO in condition C2"
+    },
+    {
+      "name": "full_trial_C3",
+      "status": "FAIL",
+      "detail": "NotImplementedError: student_controller.py has an unfinished TODO in condition C3"
+    }
+  ],
+  "scope": "Diagnostic controller checks only; not an automatic 20-point grade.",
+  "passed": 3,
+  "failed": 7
+}
